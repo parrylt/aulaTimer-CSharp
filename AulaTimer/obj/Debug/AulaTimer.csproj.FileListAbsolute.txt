@@ -1,0 +1,11 @@
+C:\Users\Alunos\Desktop\AulaTimer\AulaTimer\obj\Debug\AulaTimer.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\AulaTimer\AulaTimer\obj\Debug\AulaTimer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alunos\Desktop\AulaTimer\AulaTimer\obj\Debug\AulaTimer.Form1.resources
+C:\Users\Alunos\Desktop\AulaTimer\AulaTimer\obj\Debug\AulaTimer.Properties.Resources.resources
+C:\Users\Alunos\Desktop\AulaTimer\AulaTimer\obj\Debug\AulaTimer.csproj.GenerateResource.cache
+C:\Users\Alunos\Desktop\AulaTimer\AulaTimer\obj\Debug\AulaTimer.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\AulaTimer\AulaTimer\bin\Debug\AulaTimer.exe.config
+C:\Users\Alunos\Desktop\AulaTimer\AulaTimer\bin\Debug\AulaTimer.exe
+C:\Users\Alunos\Desktop\AulaTimer\AulaTimer\bin\Debug\AulaTimer.pdb
+C:\Users\Alunos\Desktop\AulaTimer\AulaTimer\obj\Debug\AulaTimer.exe
+C:\Users\Alunos\Desktop\AulaTimer\AulaTimer\obj\Debug\AulaTimer.pdb
